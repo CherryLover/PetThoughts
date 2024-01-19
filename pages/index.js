@@ -157,16 +157,14 @@ export default function components() {
                 <footer className="flex justify-center items-center">
                     &copy; 2024
                     {'-'}
-                    <a href="https://jingle.bio/liuziting/" target="_blank" rel="noopener noreferrer">
+                    <a href="https://www.jiangjiwei.space/about" target="_blank" rel="noopener noreferrer">
                         {' '}
-                        liuziting
+                        Flyooo
                     </a>
                     . All rights reserved.
                 </footer>
                 <p>
-                    <a href="https://gemini.smartai.wtf/">GeminiChat</a> |
-                    <a href="https://tools.smartai.wtf/"> SmartAI</a> |
-                    <a href="https://babythoughts.netlify.app/"> BabyThoughts</a>
+                    <a href="https://shuttershowcase.vercel.app/">Shutter Show Case</a>
                 </p>
             </main>
         </div>
